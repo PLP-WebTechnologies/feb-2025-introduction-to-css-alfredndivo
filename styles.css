@@ -1,0 +1,48 @@
+/* Element Selector */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f5fbff;
+    color: #2c3e50;
+    margin: 20px;
+    padding: 0;
+  }
+  
+  /* ID Selector */
+  #main-heading {
+    color: #1abc9c;
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  /* Class Selector */
+  .intro-text {
+    font-size: 18px;
+    line-height: 1.8;
+    padding: 15px;
+    background-color: #e8f8f5;
+    border-left: 5px solid #16a085;
+    margin-bottom: 25px;
+  }
+  
+  /* Style the image */
+  .styled-image {
+    display: block;
+    margin: 0 auto 30px;
+    border: 3px solid #bdc3c7;
+    border-radius: 10px;
+    width: 250px;
+  }
+  
+  /* Styled box with spacing and border */
+  .box {
+    background-color: #ffffff;
+    padding: 20px;
+    border: 2px dashed #3498db;
+    margin: 0 auto;
+    width: 90%;
+    max-width: 400px;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
